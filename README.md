@@ -34,10 +34,10 @@ Please cite this paper if you want to use it in your work.
 
 ``` bash
 @article{chen2019gapnet,
-  title={GAPNet: Graph Attention based Point Neural Network for Exploiting Local Feature of Point Cloud},
-  author={Chen, Can and Fragonara, Luca Zanotti and Tsourdos, Antonios},
-  journal={arXiv preprint arXiv:1905.08705},
-  year={2019}
+  title={Multi-scale Receptive Fields Graph Attention Network for Point Cloud Classification},
+  author={Xi-An Li, Lei Zhang, Li-Yan Wang and Jian Lu},
+  journal={arXiv preprint arXiv:2009.13289},
+  year={2020}
 }
 ```
 
